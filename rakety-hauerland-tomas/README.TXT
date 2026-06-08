@@ -6,7 +6,7 @@ all they need to know. The comments should usually include at least:
 
 PROJECT TITLE: poslední test
 PURPOSE OF PROJECT: známka
-VERSION or DATE: 
+VERSION or DATE: 20.5.2026
 HOW TO START THIS PROJECT: still in progress
 AUTHORS: Tomáš Hauerland
 USER INSTRUCTIONS: still in progress
