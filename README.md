@@ -1,4 +1,4 @@
-# **poslední test**
+# poslední test
 ### _hra v greenfootu_
-#### závěrečný test
+### **závěrečný test**
 testovací projekt pro vyzkoušení s githubem
