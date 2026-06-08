@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Raketa
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Raketa\ here.\r\n\ \r\n\ @author\ (Hauerland\ Tom\u00E1\u0161)\ \r\n\ @version\ (20.5.2026)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=palivo
+comment2.target=void\ natankuj(int)
+comment3.params=
+comment3.target=void\ pohyb()
+numComments=4

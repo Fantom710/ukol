@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=OdpalovaciRampa
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OdpalovaciRampa\ here.\r\n\ \r\n\ @author\ (Hauerland\ Tom\u00E1\u0161)\ \r\n\ @version\ (20.5.2026)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ pohyb()
+comment3.params=
+comment3.target=void\ seznam()
+numComments=4
